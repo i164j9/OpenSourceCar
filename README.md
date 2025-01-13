@@ -26,7 +26,7 @@ Who can create a "framework" for the project and make it "plug-in"/modular based
 
 I know this is an outrageous idea but I also think its a worth while idea/project. I am more than sure there are aspects of this I have not thought about yet and thats why I am publicizing this thought. 
 
-If your genuinely intersted in devoting some time to help geth things going. create a pull request and lets have a conversation.
+If your genuinely intersted in devoting some time to help get things going. create a pull request and lets have a conversation.
 
 
 
