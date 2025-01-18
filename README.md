@@ -17,7 +17,7 @@ The idea is to create some generic hardware using FPGAs and MCUs where needed to
 
 Every module would be essentially identical in terms of the hardware. Even if it is overkill for the intended purpose with additional I/Os for those who want add, create, develop additional software or devices for a vehicle. 
 
-For the basis of the software I was thinking FreeRTOS, for any and all GUI needs using Qt. After all, if this will be an open source project, lets use open source tools.
+For the basis of the software I was thinking FreeRTOS, The communications protocol would be FlexCAN primarily for speed, for any and all GUI needs using Qt3D. After all, if this will be an open source project, lets use open source tools.
 
 In terms of interfacing with the vehicles existing electrical system, there would need to be "dongles/adapters" made to match the vehicle. I realise there are a number of challenges here with various implementations of cruise control and the infortainment systems. I am sure sure some hardware may have propritery software embedded. Like a throttle body that utilizes a stepper or servo to actuate the butterfly. I am sure these issues can be overcome. I am equally confident, the community as a whole can generate better software, and able to reduce the number of exploits too.
 
