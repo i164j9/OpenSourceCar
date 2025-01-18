@@ -13,7 +13,7 @@ Mean while back in the automotive world some manufacturers have implemented soft
 
 I started thinking about this insanity to nickel and dime everyone for any or every feature they want. So I began thinking about this project.
 
-The idea is to create some generic hardware using FPGAs and MCUs where needed to replace the OE electronics. like the PCM, BCM, TCM and so forth.
+The idea is to create some generic hardware using FPGAs and MCUs where needed to replace the OE electronics. like the PCM, BCM, TCM and so forth. The best part of this is that every module would have extra unused I/Os turning the vehicle into a development platform.
 
 Every module would be essentially identical in terms of the hardware. Even if it is overkill for the intended purpose with additional I/Os for those who want add, create, develop additional software or devices for a vehicle. 
 
