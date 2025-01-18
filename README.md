@@ -25,7 +25,7 @@ As I said, I am no engineer of any sorts. but I am willing to buy some developme
 
 It would be great to have some automotive EEs involed in the hardware design and most certaintly software engineers that are better than myself. Who can create a "framework" for the project and make it modular/"plug-in" based architecture.
 
-I know this is an outrageously ambitious idea. I also think its a worth while idea/project. I am confident there are aspects of this I have not thought about yet and thats why I am publicizing this thought, to hopefully start some brain storming.
+I know this is an outrageously ambitious idea. I also think its a worth while idea/project. I am confident there are aspects of this I have not thought about yet. That's why I am publicizing this thought, to hopefully start some brain storming.
 
 If you're genuinely intersted in devoting some time to help get things going. create a pull request and lets have a conversation.
 
