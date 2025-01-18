@@ -5,7 +5,7 @@ While there is nothing in the Repo yet... I would like to explain this insane id
 
 How everything has become proprietary and you DO NOT OWN the software that makes your car function, it's licensed to you. So technically you do not own the car. With that being said, this IS and most certaintly WILL be a very large undertaking.
 
-I am not an engineer of any kind. I play in electronics and software more or less a hobby for me. With the complexity of modern vehicles, monitoring various sensors from the engine to cameras and audio. It would be nice if those of us like myself could diagnose and repair a vehicle, above all make changes for perfomance with out the need of a dealer. 
+I am not an engineer of any kind. I play in electronics and software more or less a hobby for me. With the complexity of modern vehicles, monitoring various sensors from the engine to cameras and audio. It would be nice if those of us like myself, could diagnose and repair a vehicle. Above all make changes for perfomance with out the need of a dealer or using aftermarket devices to alter a PCM. 
 
 Take John Deere as a prime example. They have straight up put prevented people from repairing their own equipment that cost from a few thousand to millions of dollars, they "license" the software to you and provide no way to interface with the system to diagnose or repair it. Uou must take it back to them or they come to you to repiar your equipment it is genuinely fucked up that they do this.
 
