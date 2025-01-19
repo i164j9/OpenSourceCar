@@ -7,7 +7,7 @@ How everything has become proprietary and you DO NOT OWN the software that makes
 
 I am not an engineer of any kind. I play in electronics and software more or less a hobby for me. With the complexity of modern vehicles, monitoring various sensors from the engine to cameras and audio. It would be nice if those of us like myself, could diagnose and repair a vehicle. Above all make changes for perfomance with out the need of a dealer or using aftermarket devices to alter a PCM. 
 
-Take John Deere as a prime example. They have straight up put prevented people from repairing their own equipment that cost from a few thousand to millions of dollars, they "license" the software to you and provide no way to interface with the system to diagnose or repair it. You must take it back to them or they come to you to repiar your equipment. it is genuinely fucked up that they do this.
+Take John Deere as a prime example. They have straight up put prevented people from repairing their own equipment that cost from a few thousand to millions of dollars, they "license" the software to you and provide no way to interface with the system to diagnose or repair it. You must take it back to them or they come to you to repair your equipment. it is genuinely fucked up that they do this.
 
 Mean while back in the automotive world some manufacturers have implemented software/hardware as a service model. To top it off they harvest data from and about you and "your" vehicle and use it for marketing and tracking. I don't remember which manufacturer specfically I think BMW... for a nominal annual fee you can have heated seats or performance increase just by updating a few variables in the vehicles control modules, that cost a few thousand a year.
 
