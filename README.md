@@ -15,7 +15,7 @@ I started thinking about this insanity to nickel and dime everyone for any or ev
 
 The idea is to create some generic hardware using FPGAs and MCUs where needed to replace the OE electronics. like the PCM, BCM, TCM and so forth. The best part of this is that every module would have extra unused I/Os turning the vehicle into a development platform.
 
-Every module would be essentially identical in terms of the hardware. Even if it is overkill for the intended purpose with additional I/Os for those who want add, create, develop additional software or devices for a vehicle. 
+Every module would be essentially identical in terms of the hardware. Even if it is overkill for the intended purpose with additional I/Os for those who want to add, create, develop additional software or devices for a vehicle. 
 
 For the basis of the software I was thinking FreeRTOS, The communications protocol would be FlexCAN primarily for speed, for any and all GUI needs using Qt3D. After all, if this will be an open source project, lets use open source tools.
 
