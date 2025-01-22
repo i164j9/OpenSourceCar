@@ -1,5 +1,5 @@
 # OpenSourceCar
-Open Source hardware and software to replace OE hardware in virtually any vehicle
+Open Source hardware and software to replace OE hardware in virtually any vehicle except EVs.
 
 While there is nothing in the Repo yet... I would like to explain this insane idea as best I can.
 
