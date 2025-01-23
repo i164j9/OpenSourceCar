@@ -11,7 +11,7 @@ Take John Deere as a prime example. They have straight up prevented people from 
 
 Mean while back in the automotive world some manufacturers have implemented software/hardware as a service model. To top it off they harvest data from and about you and "your" vehicle and use it for marketing and tracking. I don't remember which manufacturer specfically I think BMW... for a nominal annual fee you can have heated seats or performance increase just by updating a few variables in the vehicles control modules, that cost a few thousand a year. another example is GM you buy this 80~100k truck, but you want heated seats key less entry, and remote start. not only do you need an onstar subscription, you have to pay a subscription fee for the added features.
 
-A lot of modern vehicles have a cellular connection so it can call "home" and report is issues. dealerships use this data not just to service the vehicle but also as marketing. they will call you and tell you that your car has an issue and they to sell you the service, in addition to this they track the vehicle via GPS.
+A lot of modern vehicles have a cellular connection so it can call "home" and report its issues. dealerships use this data not just to service the vehicle but also as a marketing tool. They will call you and tell you that your car has an issue and they will try to sell you the service, in addition to this they track the vehicle via GPS.
 
 I started thinking about this insanity to nickel and dime everyone for any for every feature they want. So I began thinking about this project.
 
