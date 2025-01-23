@@ -13,20 +13,22 @@ Mean while back in the automotive world some manufacturers have implemented soft
 
 I started thinking about this insanity to nickel and dime everyone for any or every feature they want. So I began thinking about this project.
 
-The idea is to create some generic hardware using FPGAs and MCUs where needed to replace the OE electronics. like the PCM, BCM, TCM and so forth. The best part of this is that every module would have extra unused I/Os turning the vehicle into a development platform.
+The idea is to create some generic hardware using FPGAs and MCUs where needed to replace the OE electronics. like the PCM(powertrain control module), BCM(body control module), TCM(transmission control module), IVI(in vehicle infotainment) and so forth. The best part of this is that every module would have extra unused I/Os turning the vehicle into a development platform.
 
-Every module would be essentially identical in terms of the hardware. Even if it is overkill for the intended purpose with additional I/Os for those who want to add, create, develop additional software or devices for a vehicle. 
+Every module would be essentially identical in terms of the hardware. Even if it is overkill for the intended purpose. With additional I/Os for those who want to add, create, develop additional software or devices for a vehicle this would enable such creativity. and let's not forget the awesome vehicle customizations that can be done.
 
 For the basis of the software I was thinking FreeRTOS, The communications protocol would be FlexCAN primarily for speed, for any and all GUI needs using Qt3D. After all, if this will be an open source project, lets use open source tools.
 
-In terms of interfacing with the vehicles existing electrical system, there would need to be "dongles/adapters" made to match the vehicle. I realise there are a number of challenges here. With various implementations of cruise control on the software side and the propriteary infortainment systems. I am sure some hardware may have propritery software embedded. Like a throttle body that utilizes a stepper or servo to actuate the butterfly. I am sure these issues can be overcome. I am equally confident, the community as a whole can generate better software, and able to reduce the number of exploits too.
+In terms of interfacing with the vehicles existing electrical system, there would need to be "dongles/adapters" made to match the vehicle. I realise there are a number of challenges here. 
 
-As I said, I am not an engineer of any sorts. I am willing to buy some development boards and begin down this path. To start learning and experimenting with developing a PCM / BCM for my own vehicle. after all you have to start some where, right?
+With various implementations of cruise control on the software and hardware side, propriteary infortainment systems. I am sure some hardware may have propritery software embedded. Like a throttle body that utilizes a stepper or servo to actuate the butterfly. I am sure these issues can be overcome. I am equally confident, the community as a whole can generate better software, and able to reduce the number of exploits too.
 
-It would be great to have some automotive EEs involved in the hardware design, Most certaintly software engineers that are better than myself. Who can create a "framework" for the project and make it modular/"plug-in" based architecture.
+As I said, I am not an engineer of any sorts. I am willing to buy some development boards and begin down this path and start learning, experimenting with developing a PCM / BCM for my own vehicle. after all you have to start some where, right?
+
+It would be great to have some automotive EEs involved in the hardware design, Most certaintly software engineers that are better than myself. Who can create a "framework" for the project and make it "modular/plug-in" based architecture.
 
 I know this is an outrageously ambitious idea. I also think its a worth while idea/project. I am confident there are aspects of this I have not thought about yet. That's why I am publicizing this thought, to hopefully start some brain storming.
 
-The propritery dealer specfic diagnostics and repair tasks needs to end. For them it is all about charging you more. Another example is on some vehicles today, you have to go to the dealer to reset the oil life after an oil change. That is absolutely absurd and unecessary.
+The dealer specfic proprietary diagnostics and repair tasks needs to end. For them it is all about charging you more. Another example is on some vehicles today, you have to go to the dealer to reset the oil life after an oil change. That is absolutely absurd and unecessary.
 
 If you're genuinely intersted in devoting some time to help get things going. create a pull request and lets have a conversation.
